@@ -1,1 +1,1 @@
-# machine-learing-ai-pertemuan-6
+# machine-learning-ai-pertemuan-6
